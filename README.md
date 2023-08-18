@@ -29,7 +29,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,css,html,java,kotlin,gradle,php,bootstrap,firebase,git,github,mysql,sqlite,stackoverflow,vscode,idea,wordpress,ps,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,css,html,java,kotlin,gradle,php,bootstrap,firebase,git,github,mysql,sqlite,m,m,m,m,m,m,stackoverflow,vscode,idea,wordpress,ps,figma,xd)](https://skillicons.dev)
 <br/>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
