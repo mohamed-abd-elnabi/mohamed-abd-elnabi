@@ -7,7 +7,7 @@
 
 🎓 I am 20 years old and currently a university student.
 
-🚀 I have over 4 years of experience in software development through self-study, without any formal mentoring.
+🚀 I have over 3 years of experience in software development through self-study, without any formal mentoring.
 
 🌟 I have a strong passion for continuously improving my skills and I aspire to work in a collaborative environment.
 
